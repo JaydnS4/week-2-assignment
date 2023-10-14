@@ -1,0 +1,42 @@
+body
+{background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    float:right;
+}
+h1, h2, h3{
+    color: brown;
+}
+nav{
+    text-align: center;
+    padding: 1rem;
+}
+table{
+    border-collapse: collapse;
+width: 100%;
+color: brown;
+}
+td, td{
+    padding: 10px;
+    border-top: 2px solid;
+}
+.hov{
+    color: black;
+    font-family: fantasy;
+}
+.hov:hover{
+color: crimson;
+}
+#bordered-text{
+    border-style: outset;
+    border-radius: 10px;
+    background-color: bisque;
+    padding: 1rem;
+}
+div{
+    font-family: fantasy;
+}
+form{
+    padding: 2rem;
+}
